@@ -32,7 +32,7 @@ social:
     - https://github.com/arcanelabsio
     - https://longeviti.app
 
-repository: arcanelabsio/longeviti-site
+repository: longeviti/longeviti-site
 
 # Jekyll built-in theme disabled — we ship our own CSS to mirror the app's design tokens.
 theme: null
